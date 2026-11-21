@@ -1,0 +1,7 @@
+<resources>
+    <!-- Finestra trasparente e senza animazioni: l'app non si vede mai. -->
+    <style name="Theme.Invisible" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- corpo della videocamera -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M34,40h30a5,5 0,0 1,5 5v18a5,5 0,0 1,-5 5H34a5,5 0,0 1,-5 -5V45a5,5 0,0 1,5 -5z" />
+    <!-- obiettivo -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M71,50l10,-6v20l-10,-6z" />
+    <!-- puntino rosso di registrazione -->
+    <path android:fillColor="#E53935"
+        android:pathData="M37,48a4,4 0,1 0,8 0a4,4 0,1 0,-8 0z" />
+</vector>

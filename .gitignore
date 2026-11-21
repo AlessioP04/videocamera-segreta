@@ -1,0 +1,12 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.keystore
+*.jks
+.idea/
+*.iml
+.kotlin/
+
+# Chiave di firma (vedi ../videocamera-segreta-firma/LEGGIMI.txt)
+keystore.properties

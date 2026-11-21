@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Videocamera segreta</string>
+    <string name="channel_recording">Registrazione</string>
+    <string name="channel_updates">Aggiornamenti</string>
+    <string name="recording_title">Registrazione in corso</string>
+    <string name="recording_text">Tocca per fermare e salvare il video</string>
+    <string name="action_stop">Ferma e salva</string>
+    <string name="recording_started">Registrazione avviata</string>
+    <string name="video_saved">Video salvato in galleria</string>
+    <string name="video_failed">Registrazione non riuscita (errore %1$d)</string>
+    <string name="camera_failed">Impossibile aprire la fotocamera</string>
+    <string name="camera_permission_needed">Serve il permesso Fotocamera: concedilo dalle impostazioni dell\'app</string>
+    <string name="update_title">Nuova versione disponibile: %1$s</string>
+    <string name="update_text">Tocca per scaricarla da GitHub</string>
+</resources>
